@@ -1,0 +1,25 @@
+#include <stdio.h>
+void main()
+{
+    int a,i=2,count=0;
+    printf("Enter a natural number: ");
+    scanf("%d",&a);
+    if(a==1)
+        printf("The number is neither prime nor composite \n");
+    else
+    {
+        while(i<=a/2)
+        {
+            if(a%i==0)
+            {
+                count=1;
+                break;
+            }
+            i++;
+        }
+        if(count==0)
+            printf("%d is a prime number \n",a);
+        else
+            printf("%d is not a prime number \n",a);
+    }
+}
