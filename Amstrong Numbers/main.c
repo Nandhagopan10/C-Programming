@@ -1,3 +1,5 @@
+Write the code for checking Amstrong numbers ?
+
 #include <stdio.h>
 #include<math.h>
 void main()
