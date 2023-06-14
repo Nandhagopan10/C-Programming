@@ -1,3 +1,5 @@
+Write the code for printing array of numbers in ascending order using bubble sort ?
+
 #include <stdio.h>
 void main()
 {
