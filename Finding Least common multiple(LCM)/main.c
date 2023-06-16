@@ -1,3 +1,5 @@
+Write a Cprogram to read two numbers from user and return its LCM ?
+
 #include <stdio.h>
 void main()
 {
