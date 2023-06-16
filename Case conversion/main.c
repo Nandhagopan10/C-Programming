@@ -1,3 +1,5 @@
+Write a C prgm to read a alphabet from user and change its case ?
+
 #include <stdio.h>
 void main()
 {
