@@ -1,3 +1,5 @@
+HCFWrite a Cprogram to read two numbers from user and return its HCF ?
+
 #include <stdio.h>
 void main()
 {
