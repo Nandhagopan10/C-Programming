@@ -1,3 +1,4 @@
+Write a C prgm to add 2 matices by reading values from the user?
 #include <stdio.h>
 void main()
 {
