@@ -1,3 +1,4 @@
+Write a C prgm to print the multiplication table of the number given by the user?
 #include <stdio.h>
 void main()
 {
