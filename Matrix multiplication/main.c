@@ -1,6 +1,8 @@
+Write a C prgm to multiply 2 matices by reading values from the user?
 #include <stdio.h>
 
 void main()
+
 {
     int A[10][10],B[10][10],product[10][10];
     int row1,col1,row2,col2,i,j,k;
