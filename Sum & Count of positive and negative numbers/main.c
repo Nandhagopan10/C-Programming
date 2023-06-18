@@ -1,3 +1,4 @@
+Write the c prgm to find the sum & count of positive and negative numbers given by the user?
 #include <stdio.h>
 void main() {
   int num, sum1 = 0, sum2 = 0, count1 = 0, count2 = 0;
