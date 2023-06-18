@@ -1,3 +1,4 @@
+Write a C program to read two array from user and show the sum and average of two arrays?
 #include <stdio.h>
 void main()
 {
