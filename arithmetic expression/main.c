@@ -1,3 +1,4 @@
+Write a Cprogram to find the solution of arithmetic expression x=((a-b)/(cd+e)(fg)?
 #include <stdio.h>
 #include<math.h>
 
