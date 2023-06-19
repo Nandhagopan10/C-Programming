@@ -1,5 +1,5 @@
+Write a C program to read 2 numbers from user and apply basic mathematical operations(+,-,*,/) to work like a calculator?
 #include <stdio.h>
-
 void main()
 {
     float num1, num2, result;
