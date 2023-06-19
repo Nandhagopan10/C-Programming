@@ -1,3 +1,4 @@
+Write a C program to check whether a number is negative or positive and find the sum and count of each?
 #include <stdio.h>
 void main()
 {
