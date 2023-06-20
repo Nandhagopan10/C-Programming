@@ -1,3 +1,5 @@
+Write a Cprogram to read a number from the user and check whether it is a prime number?
+    
 #include <stdio.h>
 void main()
 {
