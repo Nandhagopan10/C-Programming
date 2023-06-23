@@ -1,6 +1,5 @@
+Write a C program to check whether the number is odd or even?
 #include <stdio.h>
-
-
 void main()
 {
     int num;
